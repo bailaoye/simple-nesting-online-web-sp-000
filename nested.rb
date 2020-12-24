@@ -128,4 +128,6 @@ def adding_to_dennis
         }
      }
 
+		 progammer_hash[:dennis_ritchie][:languages][1] = 
+
 end
